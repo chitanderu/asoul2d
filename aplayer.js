@@ -1,3 +1,5 @@
+// <link rel="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">   
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     audio: [{
