@@ -142,7 +142,7 @@
     function 加载圣·嘉然() {
       pio_reference = new Paul_Pio(initConfig)
   
-      pio_alignment = "right" // 右下角
+      pio_alignment = "left" // 右下角
   
       const closeBtn = document.querySelector(".pio-container .pio-action .pio-close")
       closeBtn.insertAdjacentHTML('beforebegin', '<span class="pio-top"></span>')
