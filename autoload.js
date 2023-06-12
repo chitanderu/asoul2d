@@ -56,7 +56,7 @@
   
   .pio-action span {
     background: none;
-    background-size: 100%;
+    background-size: 65%;
     border: 1px solid #fdcf7b;
     border: 0;
     width: 2em;
